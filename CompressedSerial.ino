@@ -6,7 +6,7 @@
 //ZZ varies from 00 to oo ie 0 to 4096
 //BB varies from 00 to oo Buttons value 12 bit binary ie 1111 1111 1111
 
-#oo oo oo oo oo oo oo oo;
+//#oo oo oo oo oo oo oo oo;
 
 String s1, s2, s3, s4;
 char Str1[3] = "X";
